@@ -79,14 +79,6 @@ Daily use of **Claude Code** (IDE + terminal) and **GitHub Copilot** as producti
 
 ---
 
-### 📊 GitHub Stats
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmuriloneves&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmuriloneves&layout=compact&theme=default&hide_border=true)
-
----
-
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilonevesdossantos)
